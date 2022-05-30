@@ -10,7 +10,7 @@
     --nav-color: #212121;
     --text-color: #757575;
     --background-accent-color: #2F303A;
-    --background-color: #E5E5E5;
+    --background-color: #FFFFFF;
     --portfolio-button-color: #212121;
     --background-section-color: #F5F4FA;
 }
@@ -57,7 +57,7 @@ body {
 
 /* ----------------header----------------- */
 .header {
-    background-color: var(--accent-second-color);
+    background-color: var(--background-color));
 }
 
 .header-link {
